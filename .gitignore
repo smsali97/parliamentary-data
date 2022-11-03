@@ -1,0 +1,4 @@
+parliament_articles*
+*.ipynb
+*.ipynb_checkpoints/
+urls.csv
