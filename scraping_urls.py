@@ -85,4 +85,5 @@ for yr, day, month, prefix in date_prefixes:
 
 writer.writerows(write_rows)
 urls_file.close()
+exit(0)
 
